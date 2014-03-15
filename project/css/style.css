@@ -1,11 +1,11 @@
 body {
 	font-family: 'Nunito', sans-serif;
 	color: #faf3bc;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	background: #586163 url('img/tweed.png') repeat;
 }
 
 a {
-	color: #4fb69f;
+	color: #A5ABC7;
 	text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ h3 {
 	padding: 15px 30px;
 	margin: 40px 0;
 	color: #faf3bc;
-	background: #4fb69f url('img/texture.png') no-repeat right top;
+	background: #A5ABC7 url('img/texture.png') no-repeat right top;
 	border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
@@ -48,7 +48,7 @@ btn:hover {
 	margin: 60px 0;
 	color: #faf3bc;
 	font-size: .75em;
-	background: #b22316 url('texture.png') no-repeat right bottom;
+	background: #9C2828 url('texture.png') no-repeat right bottom;
 	border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
@@ -94,7 +94,7 @@ ul.nav li.last {
 	border: 0;
 	font-weight: 100;
 	font-size: .75em;
-	background: #b22316 url('texture.png') no-repeat right top;;
+	background: #9C2828 url('texture.png') no-repeat right top;;
 	border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
@@ -140,7 +140,7 @@ ul.nav li a {
 }
 
 #contact span{
-	color: #b22316;
+	color: #400A0A;
 	font-weight: 600;
 }
 
